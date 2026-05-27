@@ -8,9 +8,9 @@ O trabalho aborda informações sobre a linguagem, sua história, característic
 Integrante
 - Victor Lucas de Araujo Silva
 
- Linguagem escolhida
+ Linguagem escolhida:
 
-**Python**
+Python
 
 Python é uma linguagem de programação de alto nível, interpretada e multiparadigma, amplamente utilizada em desenvolvimento web, automação, ciência de dados, inteligência artificial e diversas outras áreas.
 
